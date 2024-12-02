@@ -24,10 +24,16 @@ The **Buddy Electric manufacturing plant layout** consists of **nine principal s
 - The simulation begins with the input of materials (e.g., the vehicle chassis). 
 - The workflow proceeds through several operations, including queue processes (buffers) for each station. 
 - Each station has its own **operation time** and **cost** associated with the manufacturing or assembly process.
-- The purpose of this analysis is to quantitatively assess the **viability and efficiency** of the industrial plant.
 
 ### Proposed Layout Structure
+The **proposed manufacturing plant layout** adopts a **cellular layout**, where specific processes are carried out at designated stations or areas, but following a continuous workflow. The layout consists of four main stations, categorized and numbered as follows:
 
+1. **Chassis, Suspension, Steering, and Brakes**
+2. **Dashboard, Electrical Box, Batteries**
+3. **Interior 1 & 2**
+4. **Bodywork, Doors, Exteriors**
+
+#### Simulation Process
 The proposed layout consists of:
 1. **Four Main Stations**:
    - Each station is modeled as a **hierarchical block** representing its entire process.
@@ -39,6 +45,12 @@ The proposed layout consists of:
    - Before entering a station, cars are transported by an AGV using a process block.
 4. **Synchronization**:
    - A car proceeds to the next station only when the required resources are available and the next station is free.
+  
+#### Key Features of the Proposed Layout
+- **Cellular structure** for more efficient flow.
+- **Automated transportation** and resource allocation.
+- Improved **synchronization** between processes to reduce idle time and bottlenecks.
+- **Continuous production** with minimal downtime between stations.
 
 ### Simulation Objectives
 
