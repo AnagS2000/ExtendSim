@@ -29,10 +29,10 @@ The **Buddy Electric manufacturing plant layout** consists of **nine principal s
 ### Proposed Layout Structure
 The **proposed manufacturing plant layout** adopts a **cellular layout**, where specific processes are carried out at designated stations or areas, but following a continuous workflow. The layout consists of four main stations, categorized and numbered as follows:
 
-1. **Chassis, Suspension, Steering, and Brakes**
-2. **Dashboard, Electrical Box, Batteries**
-3. **Interior 1 & 2**
-4. **Bodywork, Doors, Exteriors**
+1. Chassis, Suspension, Steering, and Brakes
+2. Dashboard, Electrical Box, Batteries
+3. Interior 1 & 2
+4. Bodywork, Doors, Exteriors
 
 #### Simulation Process
 The proposed layout was simulated using **ExtendSim** to model the continuous workflow between the main stations.
