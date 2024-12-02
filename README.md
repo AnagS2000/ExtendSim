@@ -6,6 +6,26 @@ This project involves the analysis and simulation of the current and proposed la
 
 The current layout was analyzed to determine production rates, resource utilization, and associated costs. Based on this analysis, a new automated layout was proposed, incorporating advanced resource management strategies and automation technologies. Using **ExtendSim**, the new layout was simulated to quantify its impact on the number of cars produced and the overall cost efficiency.
 
+### Current Layout Structure
+
+The **Buddy Electric manufacturing plant layout** consists of **nine principal stations**, which are:
+
+1. Suspensions  
+2. Dashboard  
+3. Elbox  
+4. Batteries  
+5. Body Work  
+6. Interior 1  
+7. Interior 2  
+8. Doors  
+9. Testing  
+
+#### Simulation Process
+- The simulation begins with the input of materials (e.g., the vehicle chassis). 
+- The workflow proceeds through several operations, including queue processes (buffers) for each station. 
+- Each station has its own **operation time** and **cost** associated with the manufacturing or assembly process.
+- The purpose of this analysis is to quantitatively assess the **viability and efficiency** of the industrial plant.
+
 ### Proposed Layout Structure
 
 The proposed layout consists of:
