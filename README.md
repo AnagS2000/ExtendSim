@@ -4,7 +4,7 @@ This project involves the analysis and simulation of the current and proposed la
 
 ## Overview
 
-The current layout was analyzed to determine production rates, resource utilization, and associated costs. Based on this analysis, a new automated layout was proposed, incorporating advanced resource management strategies and automation technologies. Using **ExtendSim**, the new layout was simulated to quantify its impact on the number of cars produced and the overall cost efficiency.
+The current layout was analyzed to determine production rates and associated costs. Based on this analysis, a new automated layout was proposed, incorporating advanced resource management strategies and automation technologies. Using **ExtendSim**, the new layout was simulated to quantify its impact on the number of cars produced and the overall cost efficiency.
 
 ### Current Layout Structure
 
