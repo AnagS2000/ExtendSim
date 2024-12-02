@@ -85,4 +85,6 @@ The simulation results provide insights into the following:
 ## Contact
 
 For questions or further details, please contact the project team:
-- Email: [support@buddyelectrical.com](mailto:support@buddyelectrical.com)
+- Ana Gabriela Sepulveda: [A01283682@tec.mx](mailto:A01283682@tec.mx)
+- Enrique Villar: [A01658095@tec.mx](mailto:A01658095@tec.mx)
+
