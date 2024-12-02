@@ -47,17 +47,6 @@ The simulation results provide insights into the following:
 - **Cost reductions** due to optimized resource management.
 - Identification of potential bottlenecks for future improvement.
 
-## Contributing
-
-If you wish to improve or extend the simulation:
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Submit a pull request with a detailed explanation of your updates.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contact
 
 For questions or further details, please contact the project team:
